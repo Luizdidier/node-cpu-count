@@ -1,0 +1,22 @@
+{
+  "name": "cpu-count",
+  "version": "1.0.0",
+  "description": "Count CPUS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizdidier/node-cpu-count.git"
+  },
+  "keywords": [
+    "cpu"
+  ],
+  "author": "Luiz Didier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizdidier/node-cpu-count/issues"
+  },
+  "homepage": "https://github.com/Luizdidier/node-cpu-count#readme"
+}
